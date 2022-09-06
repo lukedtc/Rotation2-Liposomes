@@ -1,8 +1,4 @@
-% Model,LymphNode_2D_Model(1).mph
-% Version,COMSOL 6.0.0.312
-% Date,"Sep 5 2022, 12:21"
-% Table,Accumulated Probe Table 2 - 
-% p_diric_aff,lmda,Time (s),"Dependent variable c, Sink Flux","Dependent variable c, Source Flux","Dependent variable p (m^2), Total Concentration"
+p_diric_aff,lmda,Time (s),"Dependent variable c Sink Flux","Dependent variable c Source Flux","Dependent variable p (m^2) Total Concentration"
 0.5,0,0,0,0,0
 0.5,0,0.5,1.770793833345548E-30,1.2021032950140624E-8,3.057410351491788E-9
 0.5,0,1,1.809542157018718E-21,1.6520788512201566E-7,4.9916310677854965E-8
